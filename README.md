@@ -10,7 +10,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=ML%2FDS+Developer;Always+up+for+new+challenges;5%2B+years+of+work+experience&font=robot+slab%25&center=true&vCenter=true&width=500&height=40&size=25&pause=250&color=f75c7e"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%2FML+Developer;Always+up+for+new+challenges;5%2B+years+of+work+experience&font=robot+slab%25&center=true&vCenter=true&width=500&height=40&size=25&pause=250&color=f75c7e"></a>
 </p>
 
 <!-- Social icons section -->
